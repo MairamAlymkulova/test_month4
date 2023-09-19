@@ -1,12 +1,6 @@
-//
-//  AppDelegate.swift
-//  test_month4
-//
-//  Created by User1 on 18/9/23.
-//
+
 
 import UIKit
-
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
